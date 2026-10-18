@@ -1,0 +1,24 @@
+using system;
+namespace Calculator
+{
+  public class  BankAccount
+  {
+    public static void main()
+    {
+      void display();
+      {
+      Console.WriteLine("Enter Your Name"+name);
+      string name=Console.ReadLine();
+       
+        Console.WriteLine("Enter Credit"+creditamount);
+        float creditamount=Console.ReadLine();
+
+       Console.WriteLine("Enter Your Name");
+       string name=Console.ReadLine();
+
+       BanckAccount banckaccount=new BanckAccount();
+       banckaccount.display();
+    }
+  }
+
+}
